@@ -1,4 +1,5 @@
-"# random-color" 
+# random-color
+
 A tiny script for generating random colors using HTML, CSS & JavaScript.
 
 ![Alt text](/Random%20Color.jpg "Random Color")
